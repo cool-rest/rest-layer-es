@@ -10,7 +10,7 @@ import (
 
 	"gopkg.in/olivere/elastic.v3"
 
-	"github.com/rs/rest-layer/resource"
+	"github.com/cool-rest/rest-layer/resource"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/rs/rest-layer/resource"
+	"github.com/cool-rest/rest-layer/resource"
 	"golang.org/x/net/context"
 	"gopkg.in/olivere/elastic.v3"
 )
